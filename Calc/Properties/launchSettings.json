@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Calc": {
+      "commandName": "Project",
+      "commandLineArgs": " -r C:\\Users\\vgds7\\Downloads\\paskolos.csv  -w C:\\Users\\vgds7\\source\\repos\\Procreo -t 2021,2,4"
+    }
+  }
+}
